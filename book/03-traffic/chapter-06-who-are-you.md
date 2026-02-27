@@ -125,7 +125,7 @@ Digital Nomad & Solo Founder. Building in public.
 
 ---
 
-## 05. Instagram 装修实战指南 (The Makeover)
+## 04. YouTube 装修实战指南 (The Makeover)
 
 如果你要做视频内容，YouTube 是你的长视频大本营。即使你现在只做搬运或简单的 Vlog，门面也必须像个样子。
 
@@ -164,18 +164,10 @@ Digital Nomad & Solo Founder. Building in public.
 > https://awesomenomad.com
 
 **注**：请确保所有外部链接（如 Bento.me, GitHub, Product Hunt 等）都使用完整的 HTTPS 格式，并建议在个人网站或聚合页中设置跳转，以便统计点击数据。
-### E. Instagram 装修实战指南 (The Makeover)
-*   **定位**: 你的 Instagram 应该是你生活方式的视觉展示窗口，而非产品推销平台。
-*   **内容**: 分享高质量的旅居生活照片/短视频，搭配简短的文字，引导用户关注你的主站或 YouTube 频道。
-*   **Bio**: 保持简洁，与 Twitter/X Bio 风格一致，并包含你的 Bento/Linktree 链接。
-*   **Highlights**: 用精选故事 (Highlights) 展示你的核心内容，如 "Visa Hacks", "My Gear", "Locations"。
 
-**MeiJynX 的 Instagram Bio 模版**:
-> Digital Nomad | Solo Founder
-> Building AwesomeNomad
-> Living & Working from anywhere 🌍
-> 👇 Follow my journey:
-> https://bento.me/MeiJynX
+---
+
+## 05. Instagram 装修实战指南 
 
 ---
 
