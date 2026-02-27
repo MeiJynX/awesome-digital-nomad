@@ -104,7 +104,7 @@ GitHub 支持用一个同名仓库把 README 显示在个人主页最顶部。
 Digital Nomad & Solo Founder. Building in public.
 
 - Repo: https://github.com/MeiJynX/awesome-digital-nomad
-- Twitter/X: https://twitter.com/MeiJynX
+- Twitter/X: https://x.com/jinmei124868
 - YouTube: https://youtube.com/@MeiJynX
 - Links: https://bento.me/MeiJynX
 ```
@@ -162,6 +162,8 @@ Digital Nomad & Solo Founder. Building in public.
 >
 > 👇 Get my FREE Nomad Guide:
 > https://awesomenomad.com
+
+**注**：请确保所有外部链接（如 Bento.me, GitHub, Product Hunt 等）都使用完整的 HTTPS 格式，并建议在个人网站或聚合页中设置跳转，以便统计点击数据。
 
 ---
 
