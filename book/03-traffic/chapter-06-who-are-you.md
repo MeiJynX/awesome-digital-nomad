@@ -152,6 +152,17 @@ Digital Nomad & Solo Founder. Building in public.
 *   放上你的 Business Email（商务合作）。
 *   放上你的 Bento/Linktree 链接。
 
+**MeiJynX 的简介模版**:
+> I help people build solo businesses and live a digital nomad life.
+>
+> On this channel, I share:
+> ✦ Digital Nomad Visa Hacks
+> ✦ Passive Income Strategies
+> ✦ No-Code Tools & Automation
+>
+> 👇 Get my FREE Nomad Guide:
+> https://awesomenomad.com
+
 ---
 
 ## 05. 链接你的全宇宙 (Interlinking)
