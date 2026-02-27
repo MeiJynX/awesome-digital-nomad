@@ -164,6 +164,11 @@ Digital Nomad & Solo Founder. Building in public.
 > https://awesomenomad.com
 
 **注**：请确保所有外部链接（如 Bento.me, GitHub, Product Hunt 等）都使用完整的 HTTPS 格式，并建议在个人网站或聚合页中设置跳转，以便统计点击数据。
+### E. Instagram 装修实战指南 (The Makeover)
+*   **定位**: 你的 Instagram 应该是你生活方式的视觉展示窗口，而非产品推销平台。
+*   **内容**: 分享高质量的旅居生活照片/短视频，搭配简短的文字，引导用户关注你的主站或 YouTube 频道。
+*   **Bio**: 保持简洁，与 Twitter/X Bio 风格一致，并包含你的 Bento/Linktree 链接。
+*   **Highlights**: 用精选故事 (Highlights) 展示你的核心内容，如 "Visa Hacks", "My Gear", "Locations"。
 
 ---
 
