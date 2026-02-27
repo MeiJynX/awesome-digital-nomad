@@ -170,6 +170,13 @@ Digital Nomad & Solo Founder. Building in public.
 *   **Bio**: 保持简洁，与 Twitter/X Bio 风格一致，并包含你的 Bento/Linktree 链接。
 *   **Highlights**: 用精选故事 (Highlights) 展示你的核心内容，如 "Visa Hacks", "My Gear", "Locations"。
 
+**MeiJynX 的 Instagram Bio 模版**:
+> Digital Nomad | Solo Founder
+> Building AwesomeNomad
+> Living & Working from anywhere 🌍
+> 👇 Follow my journey:
+> https://bento.me/MeiJynX
+
 ---
 
 ## 05. 链接你的全宇宙 (Interlinking)
