@@ -41,10 +41,10 @@
 *   **注意**: Twitter Bio 有时会对特殊字符敏感，如果报错 "invalid characters"，请尝试精简 Emoji 或去除特殊符号。
 *   **MeiJynX 的完美 Bio (安全版)**:
     > **MeiJynX**
-    > Digital Nomad & Solo Founder based in Thailand.
-    > Building: AwesomeNomad (GitHub) | Sharing hacks on Geo-Arbitrage & $10k/mo passive income.
-    > Author of "Digital Nomad Mastery".
-    > Start your journey here: 👇
+    > Building AwesomeNomad
+    > Solo Founder in Thailand
+    > Geo-arbitrage. Leverage. Freedom.
+    > $10k/mo is the floor.
 
 ### D. 链接 (Link) - 流量收口
 这里**千万不要**只放一个干巴巴的博客链接。
@@ -54,6 +54,13 @@
     2.  💻 **My Code**: GitHub (github.com/MeiJynX)
     3.  📰 **Newsletter**: 订阅我的周刊
     4.  📹 **YouTube**: 观看我的旅居 Vlog
+
+    OR
+
+    Digital Nomad in Thailand
+    Building AwesomeNomad
+    All links ↓
+    https://awesomenomad.com
 
 ### E. 置顶推文 (Pinned Tweet) - 你的成名作
 这是新用户点进你主页后看到的第一个内容，必须是**干货满满**且能**展示你最高价值**的推文。
@@ -66,7 +73,59 @@
 
 ---
 
-## 03. 链接你的全宇宙 (Interlinking)
+## 03. GitHub 人设与主页装修 (GitHub Makeover)
+
+Twitter 是入口，GitHub 是你的“资产证明”。对开发者与 Maker 来说，GitHub Profile 就是你的简历、作品集和信任背书。
+
+### A. GitHub 主页信息 (Profile Fields)
+在 GitHub 个人主页右侧设置中，把这几项填满并保持统一：
+*   **Name**: MeiJynX
+*   **Bio (一句话定位)**: Digital Nomad & Solo Founder. Geo-arbitrage and leverage.
+*   **Location**: [你的城市/国家]
+*   **Website**: 你的 Bento/Linktree 聚合页
+*   **Twitter**: @MeiJynX
+
+如果你希望更偏开发者风格，可以用更“仓库式”的 Bio：
+> Building awesome-digital-nomad. Writing in public. Shipping weekly.
+
+### B. 头像与一致性 (Consistency)
+*   头像与 Twitter 保持一致（同一张真人头像或同一套 Logo）。
+*   个人主页第一屏只让用户看到三件事：你是谁、你在做什么、去哪里继续关注你。
+
+### C. Profile README (你主页的置顶说明书)
+GitHub 支持用一个同名仓库把 README 显示在个人主页最顶部。
+1.  新建仓库：`MeiJynX/MeiJynX`（仓库名必须与用户名完全一致）
+2.  勾选 Add a README file
+3.  在 README 放入以下模板（可直接复制修改）：
+
+```markdown
+# MeiJynX
+
+Digital Nomad & Solo Founder. Building in public.
+
+- Repo: https://github.com/MeiJynX/awesome-digital-nomad
+- Twitter/X: https://twitter.com/MeiJynX
+- YouTube: https://youtube.com/@MeiJynX
+- Links: https://bento.me/MeiJynX
+```
+
+### D. Pin 置顶仓库 (Pinned Repos)
+把你的主页置顶仓库控制在 4-6 个，顺序按“新用户理解成本”排列：
+1.  `awesome-digital-nomad`（主项目）
+2.  `MeiJynX`（Profile README）
+3.  一个 Demo/工具仓库（哪怕很小，也要能展示你的动手能力）
+4.  一个模板仓库（比如 Notion/写作模板的开源版本）
+
+### E. 仓库装修规范 (Repo Hygiene)
+每个对外的仓库至少做到：
+*   README 首屏 30 秒读懂：它是什么、解决什么问题、怎么开始、去哪里关注你
+*   Topics：digital-nomad, geo-arbitrage, indie-hacker, remote-work
+*   LICENSE：建议 MIT
+*   Issue 模板：收集读者反馈和选题需求（把内容创作变成需求池）
+
+---
+
+## 04. 链接你的全宇宙 (Interlinking)
 
 Twitter 只是入口，你需要把流量导向你的“资产”。
 
@@ -78,12 +137,14 @@ Twitter 只是入口，你需要把流量导向你的“资产”。
 
 ---
 
-## 04. 行动清单 (Action Plan)
+## 05. 行动清单 (Action Plan)
 
 1.  [ ] **更换头像**: 确保全平台统一（Twitter, GitHub, LinkedIn 用同一张图）。
 2.  [ ] **修改 Bio**: 复制上面的模板，填入你的真实信息。
 3.  [ ] **制作 Banner**: 用 Canva 做一张 1500x500 的图，写上你的 Slogan。
 4.  [ ] **发布置顶推文**: 写一条 Thread 介绍你自己，并置顶。
-5.  [ ] **互链**: 在 GitHub Profile 里放 Twitter 链接，在 Twitter 里放 GitHub 链接。
+5.  [ ] **创建 GitHub Profile README**: 新建 `MeiJynX/MeiJynX` 并放上链接矩阵。
+6.  [ ] **置顶仓库**: 把 `awesome-digital-nomad` 放到 GitHub Pinned。
+7.  [ ] **互链**: 在 GitHub Profile 里放 Twitter 链接，在 Twitter 里放 GitHub 链接。
 
 **记住：在网络世界，你展现出来的样子，就是你的真实样子。**
