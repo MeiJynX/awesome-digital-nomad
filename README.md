@@ -43,7 +43,7 @@ This repo is organized into clear modules:
 I document my journey and share raw data/insights across these platforms. **Follow to stay updated:**
 
 ### 🐦 Socials
-*   **Twitter / X**: [@MeiJynX](https://twitter.com/MeiJynX) (Daily thoughts & threads)
+*   **Twitter / X: [https://x.com/jinmei124868](https://x.com/jinmei124868) (Daily thoughts & threads)
 *   **YouTube**: [@MeiJynX](https://youtube.com/@MeiJynX) (Deep dive tutorials)
 *   **LinkedIn**: [MeiJynX](https://linkedin.com/in/MeiJynX) (Professional network)
 *   **Instagram**: [@MeiJynX](https://instagram.com/MeiJynX) (Lifestyle & Behind the scenes)
