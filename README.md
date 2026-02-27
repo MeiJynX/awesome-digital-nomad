@@ -80,4 +80,4 @@ If you find a typo, have a better tool suggestion, or want to translate this int
 
 ---
 
-*Built with ❤️ by [MeiJynX](https://twitter.com/MeiJynX) from somewhere on Earth.*
+*Built with ❤️ by [MeiJynX](https://x.com/jinmei124868) from somewhere on Earth.*
