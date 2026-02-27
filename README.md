@@ -4,7 +4,7 @@
 > *Build your global identity, automate your income, and live anywhere.*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Twitter Follow](https://img.shields.io/twitter/follow/MeiJynX?style=social)](https://twitter.com/MeiJynX)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MeiJynX?style=social)](https://x.com/jinmei124868)
 
 ---
 
