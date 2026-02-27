@@ -241,6 +241,74 @@ Digital Nomad & Solo Founder. Building in public.
 
 ---
 
+## 07 Reddit 装修实战指南 (The Makeover)
+
+### A. 账号设置 (Account Setup)
+*   **用户名**: 简洁、包含关键词，易于搜索。
+*   **头像**: 与 Instagram、TikTok 统一的品牌形象。
+*   **简介 (Bio)**: 用 80 字以内概括定位、价值主张，并放入链接（Bento/Linktree）。
+
+### B. 内容策略 (Content Strategy)
+*   **文字帖子**: 分享实战经验、工具推荐、案例分析。
+*   **AMA (Ask Me Anything)**: 定期举办问答，提升社区信任。
+*   **交叉链接**: 在帖子中引用 YouTube、博客等，引流至其他平台。
+
+### C. 社区参与 (Community Engagement)
+*   **评论回复**: 及时回复，提供有价值的补充信息。
+*   **参与子版块**: 加入相关 subreddit（如 r/digitalnomad），提升曝光。
+*   **投票与调查**: 收集受众需求，指导内容方向。
+
+### D. 数据分析 (Analytics)
+*   **关注增长**: 监测订阅者变化。
+*   **帖子表现**: 查看 upvotes、评论数，评估受众兴趣。
+*   **链接点击**: 使用追踪链接评估流量转化。
+
+---
+
+## 07-1 Reddit 高级运营指南 (The Makeover)
+
+### A. 跨平台同步 (Cross‑Platform Sync)
+*   将 TikTok、YouTube 内容改写成 Reddit 文字帖，扩大覆盖面。
+*   使用 Reddit 的 embed 功能嵌入视频，提升互动。
+
+### B. Reddit 广告 (Ads)
+*   小额投放推广关键帖子，快速获取曝光。
+*   设定精准受众（地区、兴趣），提升转化率。
+
+### C. 社区建设 (Community Building)
+*   创建专属 subreddit，聚合粉丝，形成私域流量。
+*   设定规则，鼓励高质量讨论，提升社区活跃度。
+
+### D. 内容深度化 (Content Deepening)
+*   发布长文（Markdown 格式）进行深度案例分析。
+*   使用 Wiki 页面整理资源，提供长期价值。
+
+---
+
+## 08 Medium 装修实战指南 (The Makeover)
+
+### A. 账号设置 (Account Setup)
+*   **用户名**: 简洁、包含关键词，易于搜索。
+*   **头像**: 与其他平台统一的品牌形象。
+*   **简介 (Bio)**: 用 80 字以内概括定位、价值主张，并放入链接（Bento/Linktree）。
+
+### B. 内容策略 (Content Strategy)
+*   **长文 (Long‑form)**: 撰写深度文章，使用标题层级和图片提升可读性。
+*   **系列文章**: 将主题拆分为多篇连载，保持读者持续关注。
+*   **内部链接**: 在文章中交叉链接到你的博客、YouTube、GitHub 等，形成流量闭环。
+
+### C. 发行与推广 (Publication & Promotion)
+*   **发布频率**: 每周 1–2 篇，保持活跃度。
+*   **社交分享**: 在 Twitter、LinkedIn、Reddit 分享文章摘要并附上链接。
+*   **邮件通讯**: 将新文章推送至 Newsletter，提升回访率。
+
+### D. 数据分析 (Analytics)
+*   **阅读时长**: 目标 3 分钟以上，提升平台推荐。
+*   **互动**: 关注 claps、comments、responses，及时回复提升社区感。
+*   **转化**: 通过追踪链接监测从 Medium 到其他平台的流量。
+
+---
+
 ## 05. 链接你的全宇宙 (Interlinking)
 
 Twitter 只是入口，你需要把流量导向你的“资产”。
