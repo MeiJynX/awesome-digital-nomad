@@ -125,7 +125,36 @@ Digital Nomad & Solo Founder. Building in public.
 
 ---
 
-## 04. 链接你的全宇宙 (Interlinking)
+## 04. YouTube 装修实战指南 (The Makeover)
+
+如果你要做视频内容，YouTube 是你的长视频大本营。即使你现在只做搬运或简单的 Vlog，门面也必须像个样子。
+
+### A. 频道横幅 (Channel Art)
+*   **尺寸**: 2560 x 1440 px (但在手机上只显示中间安全区域 1546 x 423 px)。
+*   **内容**: 确保核心信息（你是谁 + 你做什么 + 更新频率）都在安全区域内。
+*   **工具**: Canva 的 "YouTube Channel Art" 模板。
+
+### B. 频道预告片 (Channel Trailer)
+*   **未订阅用户看什么**: 录制一个 1 分钟的 "Welcome Video"。
+*   **脚本**:
+    1.  Hi, I'm MeiJynX.
+    2.  On this channel, I share tips about Digital Nomad Life & Passive Income.
+    3.  Subscribe to build your freedom with me.
+
+### C. 播放列表 (Playlists) - 你的货架
+不要让视频散乱地堆放。建立分类明确的播放列表：
+1.  **Nomad Life**: 旅居 Vlog
+2.  **Money Making**: 搞钱教程
+3.  **Tech Stack**: 工具推荐
+
+### D. 简介 (About Page)
+*   第一句话包含你的核心关键词（SEO）。
+*   放上你的 Business Email（商务合作）。
+*   放上你的 Bento/Linktree 链接。
+
+---
+
+## 05. 链接你的全宇宙 (Interlinking)
 
 Twitter 只是入口，你需要把流量导向你的“资产”。
 
@@ -137,7 +166,7 @@ Twitter 只是入口，你需要把流量导向你的“资产”。
 
 ---
 
-## 05. 行动清单 (Action Plan)
+## 06. 行动清单 (Action Plan)
 
 1.  [ ] **更换头像**: 确保全平台统一（Twitter, GitHub, LinkedIn 用同一张图）。
 2.  [ ] **修改 Bio**: 复制上面的模板，填入你的真实信息。
@@ -145,6 +174,7 @@ Twitter 只是入口，你需要把流量导向你的“资产”。
 4.  [ ] **发布置顶推文**: 写一条 Thread 介绍你自己，并置顶。
 5.  [ ] **创建 GitHub Profile README**: 新建 `MeiJynX/MeiJynX` 并放上链接矩阵。
 6.  [ ] **置顶仓库**: 把 `awesome-digital-nomad` 放到 GitHub Pinned。
-7.  [ ] **互链**: 在 GitHub Profile 里放 Twitter 链接，在 Twitter 里放 GitHub 链接。
+7.  [ ] **装修 YouTube**: 按照指南上传 Banner 和 Trailer。
+8.  [ ] **互链**: 在 GitHub Profile 里放 Twitter 链接，在 Twitter 里放 GitHub 链接。
 
 **记住：在网络世界，你展现出来的样子，就是你的真实样子。**
