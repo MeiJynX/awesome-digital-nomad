@@ -38,13 +38,13 @@
 
 ### C. 简介 (Bio) - 你的电梯演讲
 你有 160 个字符来从陌生人那里赢得关注。不要写废话。
-*   **公式**: [我是谁] + [我正在做什么] + [我能给你什么] + [权威背书]。
-*   **MeiJynX 的完美 Bio**:
+*   **注意**: Twitter Bio 有时会对特殊字符敏感，如果报错 "invalid characters"，请尝试精简 Emoji 或去除特殊符号。
+*   **MeiJynX 的完美 Bio (安全版)**:
     > **MeiJynX**
-    > 🌏 Digital Nomad & Solo Founder based in [Location].
-    > 🛠️ Building: @AwesomeNomad (GitHub) | Sharing hacks on Geo-Arbitrage & $10k/mo passive income.
-    > 📚 Author of "Digital Nomad Mastery".
-    > 👇 Start your journey here:
+    > Digital Nomad & Solo Founder based in Thailand.
+    > Building: AwesomeNomad (GitHub) | Sharing hacks on Geo-Arbitrage & $10k/mo passive income.
+    > Author of "Digital Nomad Mastery".
+    > Start your journey here: 👇
 
 ### D. 链接 (Link) - 流量收口
 这里**千万不要**只放一个干巴巴的博客链接。
