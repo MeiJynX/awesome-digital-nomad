@@ -125,7 +125,7 @@ Digital Nomad & Solo Founder. Building in public.
 
 ---
 
-## 04. YouTube 装修实战指南 (The Makeover)
+## 05. Instagram 装修实战指南 (The Makeover)
 
 如果你要做视频内容，YouTube 是你的长视频大本营。即使你现在只做搬运或简单的 Vlog，门面也必须像个样子。
 
