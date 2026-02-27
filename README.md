@@ -14,14 +14,18 @@ This repository is the open-source home of **"Digital Nomad Mastery"** (Project 
 
 Unlike generic travel blogs, this is a **technical & strategic roadmap** for building a **One-Person Business** that leverages global arbitrage.
 
-### 📚 Core Content
-This repo contains the source code for the book and actionable SOPs:
+### 📚 Core Content Structure
 
-*   **[Roadmap v4.0](./PROJECT_PLAN_v4_Course_Curriculum.md)**: The complete curriculum from Zero to Nomad.
-*   **[Book Outline](./BOOK_OUTLINE.md)**: The 15-chapter structure of the upcoming book.
-*   **[Chapter 1: The Stability Paradox](./BOOK_CHAPTER_01_v2.md)**: Why your office chair is the most dangerous place.
-*   **[Social Media SOP](./SOCIAL_MEDIA_SETUP_SOP.md)**: How to build a global brand identity (MeiJynX).
-*   **[Content Matrix](./CONTENT_REPURPOSING_MATRIX.md)**: How to turn one idea into a traffic empire.
+This repo is organized into clear modules:
+
+*   **[`/book`](./book/)**: The complete open-source book content.
+    *   [Outline & Syllabus](./book/README.md)
+    *   [Chapter 1: The Stability Paradox](./book/01-mindset/chapter-01-stability-paradox-v2.md)
+*   **[`/resources`](./resources/)**: Actionable tools and templates.
+    *   [Social Media Setup SOP](./resources/sops/social-media-setup.md)
+    *   [Content Repurposing Matrix](./resources/templates/content-matrix.md)
+*   **[`/planning`](./planning/)**: Strategic roadmaps and project plans.
+    *   [Course Curriculum v4.0](./planning/PROJECT_PLAN_v4_Course_Curriculum.md)
 
 ---
 
